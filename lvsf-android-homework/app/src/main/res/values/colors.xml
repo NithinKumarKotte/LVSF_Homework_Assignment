@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background color for the favorite place -->
+    <color name="YellowColor">#fde509</color>
+</resources>
+
